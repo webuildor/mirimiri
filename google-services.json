@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1006023056208",
+    "project_id": "mirimiri-19255",
+    "storage_bucket": "mirimiri-19255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006023056208:android:8f8d4c07b2c1772cabea55",
+        "android_client_info": {
+          "package_name": "com.mirimiri.mirimiri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006023056208-i1t56lk1v4vg257jffvej18g9k2mh1sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirimiri.mirimiri",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1006023056208-m3o7c3vscbce4fimndihi545p89v6cab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8xG-UD15Kwpe3x7dlZ62ldTTMnehj89M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006023056208-m3o7c3vscbce4fimndihi545p89v6cab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006023056208-p6s62ak4hv565fu9e1g0d5eqoqg644dn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mirimiri.mirimiri"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
